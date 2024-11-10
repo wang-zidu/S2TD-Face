@@ -1,6 +1,7 @@
 # Download [S2TD-Face](https://arxiv.org/abs/2408.01218) Assets
 
-Download [assets](https://huggingface.co/datasets/Zidu-Wang/S2TD-Face/tree/main/assets) to ```assets```
+Download [assets](https://huggingface.co/datasets/Zidu-Wang/S2TD-Face/tree/main/assets) to ```assets```.
+
 Download [texture_library](https://huggingface.co/datasets/Zidu-Wang/S2TD-Face/tree/main/texture_library) to ```texture_library/```.
 
 # Download [3DDFA_V3](https://arxiv.org/abs/2312.00311) Assets
