@@ -9,7 +9,7 @@ Download [texture_library](https://huggingface.co/datasets/Zidu-Wang/S2TD-Face/t
 Download [assets](https://huggingface.co/datasets/Zidu-Wang/3DDFA-V3/tree/main/assets) to ```TDDFAv3/assets/```.
 
 # Download [ControlNet](https://github.com/lllyasviel/ControlNet-v1-1-nightly) Code
-Download [ControlNet-v1-1-nightly](https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main) code to ```ControlNet/``` (Directly using `git clone` might work as well, but since there are many files in ControlNet, it may be more convenient to download and then copy them over).
+Download [ControlNet-v1-1-nightly](https://github.com/lllyasviel/ControlNet-v1-1-nightly) code to ```ControlNet/``` (Directly using `git clone` might work as well, but since there are many files in ControlNet, it may be more convenient to download and then copy them over).
 
 # Download [ControlNet](https://github.com/lllyasviel/ControlNet-v1-1-nightly) Assets
 Download [control_v11p_sd15_scribble.pth](https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main) to ```ControlNet/models/```
@@ -27,6 +27,7 @@ assets/
 
 ControlNet/
 ├── annotator/
+├── ldm/
 ├── ......
 ├── share.py
 └── models/
