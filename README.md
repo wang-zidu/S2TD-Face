@@ -49,7 +49,7 @@ faces from sketches.
     python clip_similarity/calculate_similarity.py
     ```
 
-3. Run demos. The user can use the default `albedo_setting` in `demo.py` (recommended) or adjust albedo_setting as needed.
+3. Run demos. The user can use the default `albedo_setting` in `demo.py` (recommended) or adjust `albedo_setting` as needed.
 
     ```
     python demo.py --savepath examples/results --device cuda --beta_magnitude 0.12 --light_intensities 1.5 --ldm68 1 --ldm106 1 --ldm106_2d 1 --ldm134 1 --seg_visible 1 --seg 1
